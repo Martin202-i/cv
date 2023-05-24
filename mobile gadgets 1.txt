@@ -1,0 +1,22 @@
+<html>
+  <title>THE SITE WITH ALL THE LATEST NEWS ABOUT TECH</title>
+  <strong><big><b><head>GADGETS WHICH WILL TAKE YOUR BREATH AWAY</head></b></strong></big>
+    <body bgcolor="blue"> 
+  <a href="mobile gadgets.html">mobile gadgets</a>
+  <a href="mobile laps.html">mobile laps</a>
+       <h3>PHONES</h3>  
+         <em><ul>
+             <li>Iphone 14 pro max</li>
+             <li>Samsung Galaxy S22 Ultra</li>
+             <li>Samsung Galaxy Note 9</li>
+             <li>Sharp 9</li>
+             <li>Huawei</li>
+             <li>Xperia</li>
+             <li>Sony</li>
+             <li>Camon 19</li> 
+             <li>Samsung A33</li>
+         </ul></em>
+<p>There are many phones on the trend but these are on the top of the list this year</p>
+    </body>
+<marquee><p>Subscribe on our web if liked the information update</p></marquee>        
+</html>
